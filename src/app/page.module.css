@@ -1,0 +1,23 @@
+.main {
+  position: relative;
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-size: 25px;
+  min-height: 100vh;
+  font-family: 'DIN-Regular', sans-serif;
+}
+
+.second {
+  display: flex;
+  justify-content: center;
+  border-radius: 5%;
+  background-color: white;
+  align-items: center;
+  height: 35rem;
+  width: 25rem;
+  border: 10px solid white;
+}
+
