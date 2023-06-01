@@ -1,9 +1,5 @@
 # next-weather-app
 
-
-Next.js weather app
-
-
 This project is similar to the weather-app repository i made previously except in this project,
 ive tried to make it using the Next.js framework for React
 
